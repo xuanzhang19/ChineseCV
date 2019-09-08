@@ -2,7 +2,7 @@
 
 ***  
 ![Profile](http://wx1.sinaimg.cn/small/007B55rcly1g4xfrens30j30u00u0npd.jpg)  
-　[[English](https://www.xuanzhang.online)]　　　[[中文版](http://8ac127f0.wiz03.com/share/s/2aMivM3cqAXi29jzTe37TBfU2U65mv1qpkda26WwYy2E0P6x)]  
+　[[English](https://www.xuanzhang.online)]　　　[[中文版](https://www.xuanzhang.online/ChineseCV/)]  
 **张旋**, 博士  
 清华大学 能源与动力学工程系  
 北京市海淀区清华园1号，100084  
