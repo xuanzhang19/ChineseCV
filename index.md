@@ -1,45 +1,42 @@
-### Xuan ZHANG@Tsinghua University  
+### 张旋@清华大学  
 
 ***  
 ![Profile](http://wx1.sinaimg.cn/small/007B55rcly1g4xfrens30j30u00u0npd.jpg)  
 　[[English](https://www.xuanzhang.online)]　　　[[中文版](http://8ac127f0.wiz03.com/share/s/2aMivM3cqAXi29jzTe37TBfU2U65mv1qpkda26WwYy2E0P6x)]  
-**Xuan ZHANG（张旋）**, Ph.D.  
-Department of Energy and Power Engineering, Tsinghua University  
-No. 1, Qinghua Yuan, Haidian District, Beijing 100084, P.R.China  
-Tel: +86-15201619077  
+**张旋**, 博士  
+清华大学 能源与动力学工程系  
+北京市海淀区清华园1号，100084  
+电话: +86-15201619077  
 Email: [xuanzhang66@126.com](mailto:xuanzhang66@126.com)  
-Website: <https://www.xuanzhang.online>  
-Google Scholar: <https://scholar.google.com/citations?user=9X0KOmYAAAAJ>  
+个人网站: <https://www.xuanzhang.online>  
+谷歌学术: <https://scholar.google.com/citations?user=9X0KOmYAAAAJ>  
 
-### Table of Contents
-- [Education](#education)
-- [Research Interest](#research-interest)
-- [Journal Papers](#journal-papers)
-- [Conference Papers](#conference-papers)
-- [Patents](#patents)
-- [Academic Research Experience](#academic-research-experience)
-- [Professional Activities & Services](#professional-activities-and-services)
-- [Honors & Awards](#honors-and-awards)
-- [Other Expertise](#other-expertise)
+### 目录
+- [教育背景](#教育背景)
+- [研究兴趣](#研究兴趣)
+- [期刊论文](#期刊论文)
+- [会议论文](#会议论文)
+- [专利](#专利)
+- [项目经历](#项目经历)
+- [学术兼职](#学术兼职)
+- [奖励与荣誉](#奖励与荣誉)
+- [其他](#其他)
 
-### Education
-- **Ph.D.** in Power Engineering and Engineering Thermophysics (**2014.09-2019.07**).  
-Tsinghua University (THU), Beijing, China.  
-Thesis title: Research on Freezing and Impact Processes of Supercooled Water Droplet and Their Coupling Characteristics. (Advisor: Prof. Xiaomin Wu.)  
-- **B.E.** in Thermal Energy and Power Engineering (**2010.09-2014.07**).  
-Beijing Institute of Technology (BIT), Beijing, China.  
-Dissertation title: Study on Gas Resistance in Two-phase Flow Boiling. (Advisor: Prof. Weizheng Zhang.)  
-[Back to Top ↑](#table-of-contents)
+### 教育背景
+- **博士**（动力工程及工程热物理，2014.09-2019.07)，清华大学  
+博士论文：过冷水滴的结冰与碰撞及其耦合特性研究（指导老师：吴晓敏）  
+- **学士**（热能与动力工程，2010.09-2014.07），北京理工大学  
+毕业论文: 基于两相流动的沸腾气阻研究（指导老师: 张卫正 教授）  
+[[目录](#目录)]　　　[[Top](#张旋@清华大学)]
 
-### Research Interest
-- Droplet freezing and condensation, Supercooled water.
-- Droplet impact dynamics, Wettability, Surface and interface science.
-- Icing/Frosting formation and prevention.
-- Micro-/Nano-scale heat and mass transfer, Microfluid.
-- Phase change energy storage, Phase change materials (PCM).  
-[Back to Top ↑](#table-of-contents)
+### 研究兴趣
+- 结冰/结霜/冷凝，过冷水
+- 液滴碰撞，表面润湿，表面科学
+- 微纳尺度传热与流动
+- 相变储能，相变材料（PCM）  
+[[目录](#目录)]　　　[[Top](#张旋@清华大学)]
 
-### Journal Papers
+### 期刊论文
 1. ***X. Zhang***, X. Liu, J.C. Min, X.M. Wu. Shape variation and unique tip formation of a sessile water droplet during freezing. *Appl. Therm. Eng.* 147, 927-934 (2019), DOI: [10.1016/j.applthermaleng.2018.09.040](https://dx.doi.org/10.1016/j.applthermaleng.2018.09.040).  
 1. ***X. Zhang***, X. Liu, X.M. Wu, J.C. Min. Experimental investigation and statistical analysis of icing nucleation characteristics of sessile water droplets. *Exp. Therm. Fluid Sci.* 99, 26-34 (2018), DOI: [10.1016/j.expthermflusci.2018.07.027](https://dx.doi.org/10.1016/j.expthermflusci.2018.07.027).  
 1. ***X. Zhang***, X. Liu, X.M. Wu, J.C. Min. Simulation and experiment on supercooled sessile water droplet freezing with special attention to supercooling and volume expansion effects. *Int. J. Heat Mass Transfer* 127, 975-985 (2018), DOI: [10.1016/j.ijheatmasstransfer.2018.07.021](https://dx.doi.org/10.1016/j.ijheatmasstransfer.2018.07.021).  
@@ -55,12 +52,12 @@ Dissertation title: Study on Gas Resistance in Two-phase Flow Boiling. (Advisor:
 1. F.Q. Chu, Z.P. Yuan, ***X. Zhang***, X.M. Wu. Energy analysis of droplet jumping induced by multi-droplet coalescence: The influences of droplet number and droplet location. *Int. J. Heat Mass Transfer* 121, 315-320 (2018), DOI: [10.1016/j.ijheatmasstransfer.2018.01.027](https://dx.doi.org/10.1016/j.ijheatmasstransfer.2018.01.027).  
 1. Y.C. Tang, J.C. Min, ***X. Zhang***, G.L. Liu. Meniscus behaviors and capillary pressures in capillary channels having various cross-sectional geometries. *Chinese J. Chem. Eng.* 26, 2014-2022 (2018), DOI: [10.1016/j.cjche.2018.04.031](https://dx.doi.org/10.1016/j.cjche.2018.04.031).  
 1. F.Q. Chu, X.M. Wu, B. Zhu, ***X. Zhang***. Self-propelled droplet behavior during condensation on superhydrophobic surfaces. *Appl. Phys. Lett.* 108, 194103 (2016), DOI: [10.1063/1.4949010](https://dx.doi.org/10.1063/1.4949010).  
-1. ***X. Zhang***, X.M. Wu, J.C. Min. Numerical simulation of freezing process of a sessile supercooled water droplet on a cold wall. *J. Eng. Thermophys.* 39(01), 159-164 (2018). (In Chinese)
-1. X. Liu, ***X. Zhang***, J.C. Min. Shape variation of sessile water droplet during freezing. *J. Eng. Thermophys.* 40(1) 2019. (In Chinese)
-1. F.Q. Chu, X.M. Wu, ***X. Zhang***, Y. Zhu. Droplet behaviors and growth regimes on superhydrophobic surfaces. *J. Eng. Thermophys.* 37(07), 1527-1531 (2016). (In Chinese)  
-[Back to Top ↑](#table-of-contents)
+1. ***张旋***, 吴晓敏, 闵敬春, 冷壁上单个静止过冷液滴冻结过程的数值模拟. *工程热物理学报* 39(01), 159-164 (2018).  
+1. 刘鑫, ***张旋***, 闵敬春, 壁面静止水滴冻结过程形状变化. *工程热物理学报* 40(1), 2019.  
+1. 褚福强, 吴晓敏, ***张旋***, 朱毅, 超疏水表面冷凝液滴行为与生长机制. *工程热物理学报* 37(07), 1527-1531 (2016).
+[[目录](#目录)]　　　[[Top](#张旋@清华大学)]
 
-### Conference Papers
+### 会议论文
 1. ***X. Zhang***, X.M. Wu, J.C. Min, X. Liu. Impact of a supercooled water droplet on different temperature and contact angle cold plates, *Proceedings of 16th International Heat Transfer Conference*, Beijing, China, Aug. 2018, IHTC16-23531.  
 1. ***X. Zhang***, X.M. Wu, J.C. Min, X. Liu. Shape variation of a sessile droplet during freezing. *Proceedings of 6th Asian Symposium on Computational Heat Transfer and Fluid Flow*, Chennai, India, Dec. 2017, ASCHT 2017-107.  
 1. ***X. Zhang***, J.C. Min, X.M. Wu. Effects of airflow parameters on aircraft icing characteristics. *Proceedings of 1st Asian Conference on Thermal Sciences*, Jeju, Korea, Mar. 2017, ACTS-P00285.  
@@ -69,54 +66,55 @@ Dissertation title: Study on Gas Resistance in Two-phase Flow Boiling. (Advisor:
 1. X. Liu, ***X. Zhang***, J.C. Min, X.M. Wu, Experiment on droplet impacting on a spherical surface. *Proceedings of 15th International Conference on Flow Dynamics*, Sendai, Japan, Novermber 2018, OS18-89.  
 1. X. Liu, ***X. Zhang***, J.C. Min, X.M. Wu, *Spreading and oscillation on different wettability surfaces at low weber number. Proceedings of 15th International Conference on Flow Dynamics*, Sendai, Japan, Nov. 2018, OS18-88.  
 1. F.Q. Chu, X.M. Wu, ***X. Zhang***, A theoretical model for the self-propelled droplet jumping phenomenon. *Proceedings of 9th International Symposium on Heat Transfer*, Beijing, China, Aug. 2016, ISHT9-A0244.  
-[Back to Top ↑](#table-of-contents)
+[[目录](#目录)]　　　[[Top](#张旋@清华大学)]
 
-### Patents
-1. ***X. Zhang***, S.Q. Ma, S. Jin, D.X. Xie, T. Fu, K. Zhou, X.Y. Wang. A spatial crank and rocker mechanism capable of precisely adjusting swing angle and direction, Chinese National Utility Model Patent, ZL 201320729918.0, Issued Oct. 2014.  
-[Back to Top ↑](#table-of-contents)
+### 专利
+1. ***张旋***, 马树奇, 靳松等. 一种可精确调节摇摆角度和方向的空间曲柄摇杆机构, 实用新型专利（ZL 201320729918.0）, 授权日期：2014.10.  
+[[目录](#目录)]　　　[[Top](#张旋@清华大学)]
 
-### Academic Research Experience
-1. **Coupling Mechanisms of Shear Flow and Surface Microstructure on the Freezing of Supercooled Water Droplet and Melting of Frozen Droplet (2019.09-2021.09)** (No. 20190005), International Postdoctoral Exchange Fellowship Program, Office of China Postdoctral Council.  
-1. **Research on Key Basic Problems of Aircraft Icing Safety and Its Protection (2015.01-2019.10)** (No. 2015CB755800), National Key Basic Research Program of China, Ministry of Science and Technology of P.R.China.  
-1. **Relationship Between the Surface Micro-nano Structure and Behavior of Cross-scale Droplets and It Regulation (2015.01-2018.12)** (No. 51476084), National Natural Science Foundation Program of China.
-1. ***Study on the Bubble Motion in the Edge-Channel of Rotor Compressor Motor (2016.06-2016.08)**, Enterprise Practice Project, Guangdong Meizhi Compressor Co., Ltd.  
-1. **Simulation Study on Frosting on the Fin Surfaces (2014.09-2015.07)**, School Enterprise Cooperation Project, Daikin Industries, Ltd.  
-[Back to Top ↑](#table-of-contents)
+### 项目经历
+1. 博士后国际交流计划（派出项目）《剪切流动与表面微结构对过冷水滴结冰与融化的耦合作用机理》(No. 20190005)，2019.09-2021.09  
+1. 国家重点基础研究发展计划（973计划）项目《**飞机结冰致灾与防护关键基础问题研究**》（No. 2015CB755800），2015.01-2018.10  
+1. 国家自然科学基金面上项目《**表面微纳结构与跨尺度液滴多场耦合演化行为的相互关系及其调控**》(No. 51476084)，2015.01-2018.12  
+1. 广东美芝制冷设备有限公司实践项目《**转子压缩机电机切边冷媒气泡运动规律研究**》，2016.06-2016.08  
+1. 日本大金公司校企合作项目《**翅片表面结霜的模拟研究**》，2014.09-2015.07  
+[[目录](#目录)]　　　[[Top](#张旋@清华大学)]
 
-### Professional Activities and Services
-- **Referee** of **Journal of Enhanced Heat Transfer** (Begell House).  
-- **Teaching Assistant (2015.03-2019.07)**, Engineering Thermodynamics MOOC (Selected as **National Excellent Online Open Course**, Ministry of Education of P.R.China), Tsinghua University.  
--  **Secretary of Defense on Dissertation for Master Degree (2016.09-2019.07)**, Tsinghua University.  
-[Back to Top ↑](#table-of-contents)
+### 学术兼职
+- **独立审稿人**： ***Journal of Enhanced Heat Transfer*** (Begell House)  
+- 清华大学《工程热力学》MOOC**课程助教（2015.03-2019.07）（国家精品在线开放课程）**  
+-  清华大学硕士生**毕业答辩秘书 (2016.09-2019.07)**  
+[[目录](#目录)]　　　[[Top](#张旋@清华大学)]
 
-### Honors and Awards
-1. **Wu Zhonghua Award for Outstanding Graduate Student** (ten students all over China), *Chinese Society of Engineering Thermophysics* (2019).  
-1. **Excellent Doctoral Thesis Award**, *Tsinghua University* (2019).  
-1. **National Scholarship for PhD Student** (top 0.2% student all over China), *Ministry of Education of P.R.China* (2018).  
-1. **National Scholarship for Undergraduate Student** (top 0.2% student all over China), *Ministry of Education of P.R.China* (2012, 2011).  
-1. **Outstanding Graduating Student Award** (top 5% student in Beijing), Beijing Municipal Education Commission (2019, 2014).  
-1. **First Rank Award for National Undergraduate Engineering Training Integration Ability Competition**, *Ministry of Education of P.R.China* (2013).  
-1. **Second Rank Award for "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works Competition**, *Ministry of Education of P.R.China & China Association for Science and Technology* (2013).  
-1. **Third Rank Award for National Undergraduate Mathematical Competition**, *Chinese Mathematical Society* (2011).  
-1. First Rank Award for Capital Undergraduate Engineering Training Integration Ability Competition, Beijing Municipal Education Commission (2013).  
-1. First Rank Award for "Challenge Cup" Capital Undergraduate Curricular Academic Science and Technology Works Competition, Beijing Municipal Education Commission & Beijing Municipal Science and Technology Commission (2013).  
-1. Second Rank Award for Capital Undergraduate Robot Competition, Beijing Municipal Education Commission (2012).  
-1. Second Rank Award for National (Part Regions) Undergraduate Physics Competition, Beijing Physical Society (2011).  
-1. **First Prize Scholarship for Excellent Student**, Tsinghua University (2015~2017).  
-1. Tongfang Scholarship for Student Work, Tsinghua University (2016~2018).  
-1. **Xu Teli (First president of BIT) Scholarship** (20 students awarded over 26,000 students in BIT), Beijing Institute of Technology (2013).  
-1. Professional Star Award, Beijing Institute of Technology (2013).  
-1. Science and Technology Competition Scholarship, Beijing Institute of Technology (2013).  
-1. Pacemaker to Excellent Student (top 1% student in BIT), Beijing Institute of Technology (2011~2013).  
-1. **First Prize Scholarship for Excellent Student** (top 5% student in BIT), Beijing Institute of Technology (2010~2014).  
-[Back to Top ↑](#table-of-contents)
+### 奖励与荣誉
+1. **吴仲华优秀研究生奖**（每年全国共10名）, *中国工程热物理学会*（2019）.
+1. **清华大学优秀博士论文**（2019）  
+1. **博士研究生国家奖学金**（2018）  
+1. **国家奖学金**（2012，2011）  
+1. **北京市优秀毕业生**（2019，2014）
+1. **全国大学生工程训练综合能力大赛一等奖**（2013）  
+1. **“挑战杯”全国大学生课外学术科技作品竞赛二等奖**（2013）  
+1. **全国大学生（部分地区）物理竞赛二等奖**（2011）  
+1. **全国大学生数学竞赛（北京赛区）三等奖**（2011）  
+1. 北京市大学生工程训练综合能力大赛一等奖（2013）  
+1. “挑战杯”首都大学生课外学术科技作品竞赛一等奖（2013）  
+1. 北京市大学生机器人大赛二等奖（2012）  
+1. **清华大学综合优秀一等奖**（2015-2017）  
+1. 清华大学优秀党建与思想政治工作者（党支书）（2019）  
+1. 清华大学优秀研究生党支部书记（2018）  
+1. 清华大学同方环境社工单项奖（2016-2018）  
+1. **北京理工大学优秀毕业生**（2014） 、**徐特立奖学金（全校每年共20位）**（2013）  
+1. **北京理工大学科技竞赛奖学金**（2013）、“世纪杯”特等奖（2012）、创新项目优秀奖（2012）等  
+1. 北京理工大学专业之星（2013）、**一等奖学金**（2010-2014）  
+1. 北京理工大学学习标兵（2011-2014）、优秀团员（2013）等  
+[[目录](#目录)]　　　[[Top](#张旋@清华大学)]
 
-### Other Expertise  
-- CAE softwares: AutoCAD, ProE, Solidworks, SketchUp.
-- CFD softwares: Gambit, ICME CFD, Fluent, Tecplot, OpenFOAM, CFX, COMSOL.
-- Programming tools: Matlab, C/C++, Python, Fortran, Maple, Mathematics.
-- Others: LabVIEW, MS Office, Origin, Visio, Endnote.  
-[Back to Top ↑](#table-of-contents)  
+### 其他  
+- CAE软件: AutoCAD, ProE, Solidworks, SketchUp.
+- CFD软件: Gambit, ICME CFD, Fluent, Tecplot, OpenFOAM, CFX, COMSOL.
+- 编程语言: Matlab, C/C++, Python, Fortran, Maple, Mathematics.
+- 其他工具: LabVIEW, MS Office, Origin, Visio, Endnote.  
+[[目录](#目录)]　　　[[Top](#张旋@清华大学)]  
 
-<p align="center"> <b> <i> Thanks for your visiting ! </i> </b> </p>  
-<p align="right"> 2019/09/04 Updated. </p>  
+<p align="center"> <b> <i> 谢谢 ! </i> </b> </p>  
+<p align="right"> 2019/09/04 更新~ </p>  
