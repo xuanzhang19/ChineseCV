@@ -1,7 +1,7 @@
 ### 张旋@清华大学  
 
 ***  
-![Profile](http://wx1.sinaimg.cn/small/007B55rcly1g4xfrens30j30u00u0npd.jpg)  
+![Profile](https://github.com/xuanzhang19/xuanzhang19.github.io/blob/master/Xuan-ZHANG_Sea200x200.jpg)  
 　[[English](https://www.xuanzhang.online)]　　　[[中文版](https://www.xuanzhang.online/ChineseCV/)]  
 **张旋**，博士  
 清华大学 能源与动力学工程系  
