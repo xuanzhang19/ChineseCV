@@ -9,11 +9,11 @@ Nanyang Technological University,
 50 Nanyang Avenue, Singapore 639798  
 Tel: +86-15201619077  
 Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ; [xuan.zhang@ntu.edu.sg](mailto:xuan.zhang@ntu.edu.sg)  
-[[Website](https://www.xuanzhang.online)]  [[Google](https://scholar.google.com/citations?user=9X0KOmYAAAAJ)]  [[ResearchGate](https://www.researchgate.net/profile/Xuan_Zhang58)] 
+[[Google](https://scholar.google.com/citations?user=9X0KOmYAAAAJ)]  [[ResearchGate](https://www.researchgate.net/profile/Xuan_Zhang58)] 
 
 ### 目录
 - [工作经历](#工作经历)
-- [Education](#education)
+- [教育背景](#教育背景)
 - [研究兴趣](#研究兴趣)
 - [期刊论文](#期刊论文)
 - [会议论文](#会议论文)
@@ -28,7 +28,7 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ; [xuan.zhang@n
   合作导师：Charles Yang Chun教授，Tuan Anh Tran副教授  
 [目录](#目录)  
 
-### Education
+### 教育背景
 - **2014.09-2019.07，博士**，动力工程及工程热物理（排名5/50），清华大学  
   博士论文：过冷水滴的结冰与碰撞及其耦合特性研究  
   指导老师：吴晓敏 教授，闵敬春 副教授  
