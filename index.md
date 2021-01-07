@@ -144,5 +144,5 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ; [xuan.zhang@n
 - 其他工具: ImageJ, Photoshop, Corel VideoStudio, Vegas, Ilustrator等   
 [目录](#目录)  
 
-<p align="center"> <b> <i> Thanks for your visiting ! </i> </b> </p>  
-<p align="right"> 2021-01-01 Updated. </p>  
+<p align="center"> <b> <i> 谢谢浏览！ </i> </b> </p>  
+<p align="right"> 2021-01-01更新. </p>  
