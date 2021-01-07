@@ -24,7 +24,7 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ; [xuan.zhang@n
 - [其他](#其他)
 
 ### 工作经历
-- **2019.09-至今，博士后**, 机械与宇航工程学院，南洋理工大学（新加坡）  
+- **2019.09-至今，博士后**，机械与宇航工程学院，南洋理工大学（新加坡）  
   合作导师：Charles Yang Chun教授，Tuan Anh Tran副教授  
 [目录](#目录)  
 
