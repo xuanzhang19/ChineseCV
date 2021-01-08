@@ -9,7 +9,7 @@ Nanyang Technological University,
 50 Nanyang Avenue, Singapore 639798  
 Tel: +86-15201619077  
 Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ; [xuan.zhang@ntu.edu.sg](mailto:xuan.zhang@ntu.edu.sg)  
-[[Google](https://scholar.google.com/citations?user=9X0KOmYAAAAJ)]  [[ResearchGate](https://www.researchgate.net/profile/Xuan_Zhang58)] 
+[[Google](https://scholar.google.com/citations?user=9X0KOmYAAAAJ)]  [[ResearchGate](https://www.researchgate.net/profile/Xuan_Zhang58)] [[个人简历](https://www.jianguoyun.com/p/DXKBGGsQpsj_Bxj5o9gD)]  
 
 ### 目录
 - [工作经历](#工作经历)
