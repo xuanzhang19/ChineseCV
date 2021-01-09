@@ -58,7 +58,7 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ; [xuan.zhang@n
 11. ***Xuan Zhang***, Xiaomin Wu\*, Jingchun Min\*, Aircraft icing model considering both rime ice property variability and runback water effect, *International Journal of Heat and Mass Transfer* 104, 510-516 (2017). [[DOI](https://dx.doi.org/10.1016/j.ijheatmasstransfer.2016.08.086)] [[PDF](https://www.jianguoyun.com/p/DbPjyWkQpsj_BxiW69cD)].
 12. ***Xuan Zhang***, Jingchun Min\*, Xiaomin Wu\*, Model for aircraft icing with consideration of property-variable rime ice, *International Journal of Heat and Mass Transfer* 97, 185-190 (2016). [[DOI](https://dx.doi.org/10.1016/j.ijheatmasstransfer.2016.01.065)] [[PDF](https://www.jianguoyun.com/p/DZUcnJwQpsj_BxiY69cD)].
 13. ***张旋***, 刘鑫, 吴晓敏\*, 闵敬春, 过冷水滴碰撞结冰的实验与模拟研究, *工程热物理学报* 41 (02), 402-410 (2020). [[PDF](https://www.jianguoyun.com/p/DZVPUcgQpsj_BxjD_NcD)]
-14. ***张旋***, 吴晓敏\*, 闵敬春, 冷壁上单个静止过冷液滴冻结过程的数值模拟, *工程热物理学报* 39(01), 159-164 (2018). [[PDF](https://www.jianguoyun.com/p/DftGY_cQpsj_BxjJ_NcD)]
+14. ***张旋***, 吴晓敏\*, 闵敬春, 冷壁上单个静止过冷液滴冻结过程的数值模拟, *工程热物理学报* 39 (01), 159-164 (2018). [[PDF](https://www.jianguoyun.com/p/DftGY_cQpsj_BxjJ_NcD)]
 15. Zhifeng Hu, Xiaomin Wu\*, Fuqiang Chu\*, ***Xuan Zhang***, Zhiping Yuan, Off-centered droplet impact on single-ridge superhydrophobic surfaces, *Experimental Thermal and Fluid Science* 120, 110245 (2021). [[DOI](https://doi.org/10.1016/j.expthermflusci.2020.110245)] [[PDF](https://www.jianguoyun.com/p/DWSECJAQpsj_Bxif69cD)]
 16. Xin Liu, ***Xuan Zhang***, Jingchun Min\*, Maximum spreading of droplets impacting spherical surfaces, *Physics of Fluids*, 31 (9), 92102 (2019). (Selected as **Editor’s Pick**) [[DOI](https://doi.org/10.1063/1.5117278)] [[PDF](https://www.jianguoyun.com/p/DUlUjSkQpsj_Bxii69cD)]
 17. Fuqiang Chu, Sihang Gao, ***Xuan Zhang***, Xiaomin Wu, Dongsheng Wen\*, Droplet re-icing characteristics on a superhydrophobic surface, *Applied Physics Letters* 115 (7), 73703 (2019). [[DOI](https://doi.org/10.1063/1.5109283)] [[PDF](https://www.jianguoyun.com/p/DUKlb9IQpsj_Bxi16tcD)]
@@ -67,9 +67,9 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ; [xuan.zhang@n
 20. Yicun Tang, Jingchun Min\*, ***Xuan Zhang***, Guiling Liu, Meniscus behaviors and capillary pressures in capillary channels having various cross-sectional geometries, Chinese Journal of Chemical Engineering 26, 2014-2022 (2018). [[DOI](https://dx.doi.org/10.1016/j.cjche.2018.04.031)] [[PDF](https://www.jianguoyun.com/p/DV86SEAQpsj_BxjS-dcD)]
 21. Fuqiang Chu, Zhiping Yuan, ***Xuan Zhang***, Xiaomin Wu\*, Energy analysis of droplet jumping induced by multi-droplet coalescence: The influences of droplet number and droplet location, *International Journal of Heat and Mass Transfer* 121, 315-320 (2018). [[DOI](https://dx.doi.org/10.1016/j.ijheatmasstransfer.2018.01.027)] [[PDF](https://www.jianguoyun.com/p/DaXCQ3UQpsj_BxjX-dcD)]
 22. Fuqiang Chu, Xiaomin Wu\*, Bei Zhu, ***Xuan Zhang***, Self-propelled droplet behavior during condensation on superhydrophobic surfaces, *Applied Physics Letters* 108, 194103 (2016). [[DOI](https://dx.doi.org/10.1063/1.4949010)] [[PDF](https://www.jianguoyun.com/p/DX2YcFoQpsj_Bxjc-dcD)]
-23. 胡志锋, 褚福强, ***张旋***, 袁志平, 吴晓敏\*, 液滴偏心撞击超疏水微柱表面：形态变化与接触时间, *工程热物理学报* 41 (9), 2266-2271 (2020). [[PDF](https://www.jianguoyun.com/p/DdNqhcwQpsj_BxjW_NcD)]
-24. 刘鑫, ***张旋***, 闵敬春\*, 壁面静止水滴冻结过程形状变化, *工程热物理学报* 41 (3), 704-708 (2020). [[PDF](https://www.jianguoyun.com/p/DeUdmroQpsj_BxjU_NcD)]
-25. 褚福强, 吴晓敏\*, ***张旋***, 朱毅, 超疏水表面冷凝液滴行为与生长机制, *工程热物理学报* 37(07), 1527-1531 (2016). [[PDF](https://www.jianguoyun.com/p/DbBCNB8Qpsj_BxjS_NcD)]  
+23. 胡志锋, 褚福强, ***张旋***, 袁志平, 吴晓敏\*, 液滴偏心撞击超疏水微柱表面：形态变化与接触时间, *工程热物理学报* 41 (09), 2266-2271 (2020). [[PDF](https://www.jianguoyun.com/p/DdNqhcwQpsj_BxjW_NcD)]
+24. 刘鑫, ***张旋***, 闵敬春\*, 壁面静止水滴冻结过程形状变化, *工程热物理学报* 41 (03), 704-708 (2020). [[PDF](https://www.jianguoyun.com/p/DeUdmroQpsj_BxjU_NcD)]
+25. 褚福强, 吴晓敏\*, ***张旋***, 朱毅, 超疏水表面冷凝液滴行为与生长机制, *工程热物理学报* 37 (07), 1527-1531 (2016). [[PDF](https://www.jianguoyun.com/p/DbBCNB8Qpsj_BxjS_NcD)]  
 [目录](#目录)
 
 ### 会议论文
