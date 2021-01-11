@@ -96,7 +96,7 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ; [xuan.zhang@n
 
 ### 项目经历
 1. **Mechanistic Prediction of Heat Transfer Enhancement on Nanostructured Surfaces** (No. MOE2018-T2-2-113, 2019.05–2022.04), Tier 2 Academic Research Fund, Ministry of Education, Singapore. （参与）
-2. **Conversion of In-process Optical and Thermal Data into 3D File Representing Printing Process in Powder Bed Fusion Process** (No. 190606, 2020.01–2021.08), NAMIC (Singapore) & ASTM.（参与）
+2. **Conversion of In-process Optical and Thermal Data into 3D File Representing Printing Process in Powder Bed Fusion Process** (No. 2019069, 2020.01–2021.08), NAMIC (Singapore) & ASTM.（参与）
 3. **Mechanisms of Ice Morphology of a Frozen Nanofluid Droplet on Subcooled Surfaces** (No. MOE2016-T2-1-114, 2017.01–2019.12), Tier 2 Academic Research Fund, Ministry of Education, Singapore.（参与）
 4. **剪切流动与表面微结构对过冷水滴结冰与融化的耦合作用机理**（No. 20190005, 2019.09–2021.09），博士后国际交流计划（派出项目），人社部/博管办。（主持）
 5. **飞机结冰致灾与防护关键基础问题研究**（No. 2015CB755800, 2015.01–2019.08），国家重点基础研究发展计划（973计划）项目，科技部。（参与）
