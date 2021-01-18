@@ -106,7 +106,7 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ; [xuan.zhang@n
 [目录](#目录)  
 
 ### 学术兼职
-1. ** 独立审稿人**: International Communications of Heat and Mass Transfer, International Journal of Thermal Science, International Journal of Heat and Fluid Flow (Elsevier); Physics of Fluids (AIP Publishing); Fluids (MDPI); Journal of Enhanced Heat Transfer (Begell House)
+1. **独立审稿人**: International Communications of Heat and Mass Transfer, International Journal of Thermal Science, International Journal of Heat and Fluid Flow (Elsevier); Physics of Fluids (AIP Publishing); Fluids (MDPI); Journal of Enhanced Heat Transfer (Begell House)
 2. 清华大学《工程热力学》MOOC**课程助教**（2015.03–2019.07）（入选**教育部2018年国家精品在线开放课程**）
 3. 清华大学硕士生毕业答辩秘书、博士生资格考试秘书（2016.09–2019.07）  
 [目录](#目录)  
