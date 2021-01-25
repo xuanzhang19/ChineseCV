@@ -9,7 +9,7 @@ Nanyang Technological University,
 50 Nanyang Avenue, Singapore 639798  
 Tel: +86-15201619077  
 Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ; [xuan.zhang@ntu.edu.sg](mailto:xuan.zhang@ntu.edu.sg)  
-[[Google](https://scholar.google.com/citations?user=9X0KOmYAAAAJ)]  [[ResearchGate](https://www.researchgate.net/profile/Xuan_Zhang58)] [[个人简历](https://www.jianguoyun.com/p/DXKBGGsQpsj_Bxj5o9gD)]  
+[[Google](https://scholar.google.com/citations?user=ebuOVAIAAAAJ)]  [[ResearchGate](https://www.researchgate.net/profile/Xuan_Zhang58)] [[个人简历](https://www.jianguoyun.com/p/DXKBGGsQpsj_Bxj5o9gD)]  
 
 ### 目录
 - [工作经历](#工作经历)
@@ -95,14 +95,14 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ; [xuan.zhang@n
 [目录](#目录)  
 
 ### 项目经历
-1. **Mechanistic Prediction of Heat Transfer Enhancement on Nanostructured Surfaces** (No. MOE2018-T2-2-113, 2019.05–2022.04), Tier 2 Academic Research Fund, Ministry of Education, Singapore. （参与）
-2. **Conversion of In-process Optical and Thermal Data into 3D File Representing Printing Process in Powder Bed Fusion Process** (No. 2019069, 2020.01–2021.08), NAMIC (Singapore) & ASTM.（参与）
-3. **Mechanisms of Ice Morphology of a Frozen Nanofluid Droplet on Subcooled Surfaces** (No. MOE2016-T2-1-114, 2017.01–2019.12), Tier 2 Academic Research Fund, Ministry of Education, Singapore.（参与）
-4. **剪切流动与表面微结构对过冷水滴结冰与融化的耦合作用机理**（No. 20190005, 2019.09–2021.09），博士后国际交流计划（派出项目），人社部/博管办。（主持）
-5. **飞机结冰致灾与防护关键基础问题研究**（No. 2015CB755800, 2015.01–2019.08），国家重点基础研究发展计划（973计划）项目，科技部。（参与）
-6. **表面微纳结构与跨尺度液滴多场耦合演化行为的相互关系及其调控**（No. 51476084, 2015.01–2018.12)，国家自然科学基金面上项目。（参与）
-7. **转子压缩机电机切边冷媒气泡运动规律研究**（2016.06–2016.08），暑期实践项目，美的集团广东美芝制冷设备有限公司。（主持）
-8. **翅片表面结霜的模拟研究**（2014.09–2015.07），校企合作项目，日本大金公司。（参与）  
+1. **剪切流动与表面微结构对过冷水滴结冰与融化的耦合作用机理**（No. 20190005, 2019.09–2021.09），博士后国际交流计划（派出项目），人社部/博管办 （主持）
+2. **Mechanistic Prediction of Heat Transfer Enhancement on Nanostructured Surfaces** (No. MOE2018-T2-2-113, 2019.05–2022.04), Tier 2 Academic Research Fund, Ministry of Education, Singapore （参与）
+3. **Conversion of In-process Optical and Thermal Data into 3D File Representing Printing Process in Powder Bed Fusion Process** (No. 2019069, 2020.01–2021.08), NAMIC (Singapore) & ASTM.（参与）
+4. **Mechanisms of Ice Morphology of a Frozen Nanofluid Droplet on Subcooled Surfaces** (No. MOE2016-T2-1-114, 2017.01–2019.12), Tier 2 Academic Research Fund, Ministry of Education, Singapore （参与）
+5. **飞机结冰致灾与防护关键基础问题研究**（No. 2015CB755800, 2015.01–2019.08），国家重点基础研究发展计划（973计划）项目，科技部 （参与）
+6. **表面微纳结构与跨尺度液滴多场耦合演化行为的相互关系及其调控**（No. 51476084, 2015.01–2018.12)，国家自然科学基金面上项目 （参与）
+7. **转子压缩机电机切边冷媒气泡运动规律研究**（2016.06–2016.08），暑期实践项目，美的集团广东美芝制冷设备有限公司
+8. **翅片表面结霜的模拟研究**（2014.09–2015.07），校企合作项目，日本大金公司    
 [目录](#目录)  
 
 ### 学术兼职
