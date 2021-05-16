@@ -74,7 +74,7 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ;
 21. Yicun Tang, Jingchun Min\*, ***Xuan Zhang***, Guiling Liu, Meniscus behaviors and capillary pressures in capillary channels having various cross-sectional geometries, Chinese Journal of Chemical Engineering 26, 2014-2022 (2018). [[Link](https://doi.org/10.1016/j.cjche.2018.04.031)] [[PDF](https://www.jianguoyun.com/p/DV86SEAQpsj_BxjS-dcD)]
 22. Fuqiang Chu, Zhiping Yuan, ***Xuan Zhang***, Xiaomin Wu\*, Energy analysis of droplet jumping induced by multi-droplet coalescence: The influences of droplet number and droplet location, *International Journal of Heat and Mass Transfer* 121, 315-320 (2018). [[Link](https://doi.org/10.1016/j.ijheatmasstransfer.2018.01.027)] [[PDF](https://www.jianguoyun.com/p/DaXCQ3UQpsj_BxjX-dcD)]
 23. Fuqiang Chu, Xiaomin Wu\*, Bei Zhu, ***Xuan Zhang***, Self-propelled droplet behavior during condensation on superhydrophobic surfaces, *Applied Physics Letters* 108, 194103 (2016). [[Link](https://doi.org/10.1063/1.4949010)] [[PDF](https://www.jianguoyun.com/p/DX2YcFoQpsj_Bxjc-dcD)]  
-\------  
+\-----  
 24. ***张旋***, 刘鑫, 吴晓敏\*, 闵敬春, 过冷水滴碰撞结冰的实验与模拟研究, *工程热物理学报* 41 (02), 402-410 (2020). [[Link](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=GCRB202002021)] [[PDF](https://www.jianguoyun.com/p/DZVPUcgQpsj_BxjD_NcD)]
 25. ***张旋***, 吴晓敏\*, 闵敬春, 冷壁上单个静止过冷液滴冻结过程的数值模拟, *工程热物理学报* 39 (01), 159-164 (2018). [[Link](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=GCRB201801027)] [[PDF](https://www.jianguoyun.com/p/DftGY_cQpsj_BxjJ_NcD)]
 26. 胡志锋, 褚福强, ***张旋***, 袁志平, 吴晓敏\*, 液滴偏心撞击超疏水微柱表面：形态变化与接触时间, *工程热物理学报* 41 (09), 2266-2271 (2020). [[Link](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=GCRB202009025)] [[PDF](https://www.jianguoyun.com/p/DdNqhcwQpsj_BxjW_NcD)]
@@ -95,7 +95,7 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ;
 10. Xin Liu, ***Xuan Zhang***, Jingchun Min\*, Xiaomin Wu, Experiment on droplet impacting on a spherical surface, *15th International Conference on Flow Dynamics*, Sendai, Japan, November 2018, OS18-89.
 11. Xin Liu, ***Xuan Zhang***, Jingchun Min\*, Droplet spreading and oscillation on different wettability surfaces at low Weber number, *15th International Conference on Flow Dynamics*, Sendai, Japan, November 2018, OS18-88.
 12. Fuqiang Chu, Xiaomin Wu\*, ***Xuan Zhang***, A theoretical model for the self-propelled droplet jumping phenomenon, *9th International Symposium on Heat Transfer*, Beijing, China, August 2016, ISHT9-A0244.  
-\------  
+\-----  
 13. ***张旋***, 吴晓敏\*, 闵敬春, 冷壁上单个静止过冷液滴冻结过程的数值模拟, *2016年中国工程热物理学会传热传质学学术会议*, 中国, 北京, 2016年10月, No. 163721.
 14. ***张旋***, 闵敬春, 吴晓敏\*, 霜冰区对飞机结冰过程的影响, *2015年中国工程热物理学会传热传质学学术会议*, 中国, 大连, 2015年10月, No. 153646.  
 15. 刘鑫, ***张旋***, 闵敬春\*, 低韦伯数下超疏水球面上过冷水滴的碰撞结冰研究, *2020年中国工程热物理学会传热传质学学术会议*, 中国, 广州, 2020年11月, No. 203319.
