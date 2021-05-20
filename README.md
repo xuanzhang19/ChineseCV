@@ -30,15 +30,15 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ;
 - [其他](#其他)
 
 ### 工作经历
-- **2019.09-至今，博士后**，机械与宇航工程学院，南洋理工大学（新加坡）  
+- **2019.09–至今，博士后**，机械与宇航工程学院，南洋理工大学（新加坡）  
   （合作导师：Charles Yang Chun教授，Tuan Anh Tran副教授）  
 [[目录](#目录)]  
 
 ### 教育背景
-- **2014.09-2019.07，博士**，动力工程及工程热物理（排名5/50），能源与动力工程系，清华大学  
+- **2014.09–2019.07，博士**，动力工程及工程热物理（排名5/50），能源与动力工程系，清华大学  
   博士论文：过冷水滴的结冰与碰撞及其耦合特性研究  
   （指导老师：吴晓敏 教授，闵敬春 副教授）  
-- **2010.09-2014.07，学士** ，热能与动力工程（排名1/57），机械与车辆学院，北京理工大学  
+- **2010.09–2014.07，学士** ，热能与动力工程（排名1/57），机械与车辆学院，北京理工大学  
   毕业论文: 基于两相流动的沸腾气阻研究  
   （指导老师: 张卫正 教授）  
 [[目录](#目录)]  
@@ -68,13 +68,13 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ;
 15. Zhifeng Hu, ***Xuan Zhang***, Sihang Gao, Zhiping Yuan, Yukai Lin, Fuqiang Chu\*, Xiaomin Wu\*, Axial spreading of droplet impact on ridged superhydrophobic surfaces, *Journal of Colloid and Interface Science* 599, 130-139 (2021). [[Link](https://doi.org/10.1016/j.jcis.2021.04.078)] [[PDF](https://www.jianguoyun.com/p/DW_o-iEQpsj_BxjI-vMD)]
 16. Zhifeng Hu, Xiaomin Wu\*, Fuqiang Chu\*, ***Xuan Zhang***, Zhiping Yuan, Off-centered droplet impact on single-ridge superhydrophobic surfaces, *Experimental Thermal and Fluid Science* 120, 110245 (2021). [[Link](https://doi.org/10.1016/j.expthermflusci.2020.110245)] [[PDF](https://www.jianguoyun.com/p/DWSECJAQpsj_Bxif69cD)]
 17. Xin Liu, ***Xuan Zhang***, Jingchun Min\*, Spreading of droplets impacting different wettable surfaces at a Weber number close to zero, *Chemical Engineering Science* 207, 495-503 (2019). [[Link](https://doi.org/10.1016/j.ces.2019.06.058)] [[PDF](https://www.jianguoyun.com/p/DdqK3JsQpsj_BxjQ-dcD)]
-18. Xin Liu, ***Xuan Zhang***, Jingchun Min\*, Maximum spreading of droplets impacting spherical surfaces, *Physics of Fluids*, 31 (9), 092102 (2019). (Selected as **Editor’s Pick**) [[Link](https://doi.org/10.1063/1.5117278)] [[PDF](https://www.jianguoyun.com/p/DUlUjSkQpsj_Bxii69cD)]
+18. Xin Liu, ***Xuan Zhang***, Jingchun Min\*, Maximum spreading of droplets impacting spherical surfaces, *Physics of Fluids* 31 (9), 092102 (2019). (Selected as **Editor’s Pick**) [[Link](https://doi.org/10.1063/1.5117278)] [[PDF](https://www.jianguoyun.com/p/DUlUjSkQpsj_Bxii69cD)]
 19. Fuqiang Chu, Sihang Gao, ***Xuan Zhang***, Xiaomin Wu, Dongsheng Wen\*, Droplet re-icing characteristics on a superhydrophobic surface, *Applied Physics Letters* 115 (7), 73703 (2019). [[Link](https://doi.org/10.1063/1.5109283)] [[PDF](https://www.jianguoyun.com/p/DUKlb9IQpsj_Bxi16tcD)]
 20. Fuqiang Chu, ***Xuan Zhang***, Shaokang Li, Haichuan Jin, Jun Zhang, Xiaomin Wu, Dongsheng Wen\*, Bubble formation in freezing droplets, *Physical Review Fluids* 4 (7), 71601 (2019). [[Link](https://doi.org/10.1103/PhysRevFluids.4.071601)] [[PDF](https://www.jianguoyun.com/p/DUN9i4IQpsj_Bxi--dcD)]
-21. Yicun Tang, Jingchun Min\*, ***Xuan Zhang***, Guiling Liu, Meniscus behaviors and capillary pressures in capillary channels having various cross-sectional geometries, Chinese Journal of Chemical Engineering 26, 2014-2022 (2018). [[Link](https://doi.org/10.1016/j.cjche.2018.04.031)] [[PDF](https://www.jianguoyun.com/p/DV86SEAQpsj_BxjS-dcD)]
+21. Yicun Tang, Jingchun Min\*, ***Xuan Zhang***, Guiling Liu, Meniscus behaviors and capillary pressures in capillary channels having various cross-sectional geometries, *Chinese Journal of Chemical Engineering* 26, 2014-2022 (2018). [[Link](https://doi.org/10.1016/j.cjche.2018.04.031)] [[PDF](https://www.jianguoyun.com/p/DV86SEAQpsj_BxjS-dcD)]
 22. Fuqiang Chu, Zhiping Yuan, ***Xuan Zhang***, Xiaomin Wu\*, Energy analysis of droplet jumping induced by multi-droplet coalescence: The influences of droplet number and droplet location, *International Journal of Heat and Mass Transfer* 121, 315-320 (2018). [[Link](https://doi.org/10.1016/j.ijheatmasstransfer.2018.01.027)] [[PDF](https://www.jianguoyun.com/p/DaXCQ3UQpsj_BxjX-dcD)]
 23. Fuqiang Chu, Xiaomin Wu\*, Bei Zhu, ***Xuan Zhang***, Self-propelled droplet behavior during condensation on superhydrophobic surfaces, *Applied Physics Letters* 108, 194103 (2016). [[Link](https://doi.org/10.1063/1.4949010)] [[PDF](https://www.jianguoyun.com/p/DX2YcFoQpsj_Bxjc-dcD)]  
-\--\--\--  
+\--\--\--    
 24. ***张旋***, 刘鑫, 吴晓敏\*, 闵敬春, 过冷水滴碰撞结冰的实验与模拟研究, *工程热物理学报* 41 (02), 402-410 (2020). [[Link](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=GCRB202002021)] [[PDF](https://www.jianguoyun.com/p/DZVPUcgQpsj_BxjD_NcD)]
 25. ***张旋***, 吴晓敏\*, 闵敬春, 冷壁上单个静止过冷液滴冻结过程的数值模拟, *工程热物理学报* 39 (01), 159-164 (2018). [[Link](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=GCRB201801027)] [[PDF](https://www.jianguoyun.com/p/DftGY_cQpsj_BxjJ_NcD)]
 26. 胡志锋, 褚福强, ***张旋***, 袁志平, 吴晓敏\*, 液滴偏心撞击超疏水微柱表面：形态变化与接触时间, *工程热物理学报* 41 (09), 2266-2271 (2020). [[Link](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=GCRB202009025)] [[PDF](https://www.jianguoyun.com/p/DdNqhcwQpsj_BxjW_NcD)]
@@ -95,7 +95,7 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ;
 10. Xin Liu, ***Xuan Zhang***, Jingchun Min\*, Xiaomin Wu, Experiment on droplet impacting on a spherical surface, *15th International Conference on Flow Dynamics*, Sendai, Japan, November 2018, OS18-89.
 11. Xin Liu, ***Xuan Zhang***, Jingchun Min\*, Droplet spreading and oscillation on different wettability surfaces at low Weber number, *15th International Conference on Flow Dynamics*, Sendai, Japan, November 2018, OS18-88.
 12. Fuqiang Chu, Xiaomin Wu\*, ***Xuan Zhang***, A theoretical model for the self-propelled droplet jumping phenomenon, *9th International Symposium on Heat Transfer*, Beijing, China, August 2016, ISHT9-A0244.  
-\--\--\--  
+\--\--\--    
 13. ***张旋***, 吴晓敏\*, 闵敬春, 冷壁上单个静止过冷液滴冻结过程的数值模拟, *2016年中国工程热物理学会传热传质学学术会议*, 中国, 北京, 2016年10月, No. 163721.
 14. ***张旋***, 闵敬春, 吴晓敏\*, 霜冰区对飞机结冰过程的影响, *2015年中国工程热物理学会传热传质学学术会议*, 中国, 大连, 2015年10月, No. 153646.  
 15. 刘鑫, ***张旋***, 闵敬春\*, 低韦伯数下超疏水球面上过冷水滴的碰撞结冰研究, *2020年中国工程热物理学会传热传质学学术会议*, 中国, 广州, 2020年11月, No. 203319.
@@ -131,7 +131,7 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ;
    - *Begell House*: Journal of Enhanced Heat Transfer
    - *MDPI*: Processes, Fluids
 2. 清华大学《工程热力学》MOOC**课程助教**（2015.03–2019.07）（入选**教育部2018年国家精品在线开放课程**）
-3. 清华大学硕士生毕业答辩秘书、博士生资格考试秘书（2016.09–2019.07）  
+3. 清华大学硕士生毕业答辩秘书（2016.09–2019.07）、博士生资格考试秘书（2016.09–2019.07）  
 [[目录](#目录)]  
 
 ### 奖励与荣誉
@@ -165,9 +165,9 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ;
 [[目录](#目录)]  
 
 ### 其他
-- CAE软件: AutoCAD, ProE, Solidworks, SketchUp
-- CFD软件: Gambit, ICME CFD, Fluent, Tecplot, OpenFOAM, CFX, COMSOL
-- 编程语言: Matlab, C/C++, Python, Fortran, Maple, Mathematic
+- CAE软件: AutoCAD, ProE, Solidworks, SketchUp等
+- CFD软件: Gambit, ICME CFD, Fluent, Tecplot, OpenFOAM, CFX, COMSOL等
+- 编程语言: Matlab, C/C++, Python, Fortran, Maple, Mathematic等
 - 其他工具: LabVIEW, MS Office, Origin, Visio, Endnote等
 - 其他工具: ImageJ, Photoshop, Corel VideoStudio, Vegas, Ilustrator等   
 [[目录](#目录)]  
