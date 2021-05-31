@@ -2,7 +2,8 @@
 ![Profile](https://github.com/xuanzhang19/xuanzhang19.github.io/raw/master/Xuan%20ZHANG_Sea200x200.jpg)  
 　[[English](https://www.xuanzhang.online)]　　　[[中文](https://www.xuanzhang.online/ChineseCV)]  
 
-**张旋**，博士（后）  
+**张旋**，博士（后） 
+[[个人简历](https://www.jianguoyun.com/p/DXKBGGsQpsj_Bxj5o9gD)]  
 南洋理工大学（新加坡），机械与宇航工程学院  
 School of Mechanical and Aerospace Engineering,  
 Nanyang Technological University,  
@@ -12,8 +13,9 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ;
 [xuan.zhang@ntu.edu.sg](mailto:xuan.zhang@ntu.edu.sg)  
 [[ORCID](https://orcid.org/0000-0002-4999-7361)] 
 [[Google Scholar](https://scholar.google.com/citations?user=ebuOVAIAAAAJ)] 
-[[ResearchGate](https://www.researchgate.net/profile/Xuan-Zhang-25)] 
-[[个人简历](https://www.jianguoyun.com/p/DXKBGGsQpsj_Bxj5o9gD)]  
+[[Web of Science](https://publons.com/researcher/AAB-1249-2020)] 
+[[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57142969300)] 
+[[ResearchGate](https://www.researchgate.net/profile/Xuan-Zhang-25)]  
 
 ### 目录
 - [目录](#目录)
@@ -153,7 +155,7 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ;
 16. 北京市大学生机器人大赛二等奖（2012）
 17. “智汇•深呼吸”首都大学生环保创新创意实践大赛二等奖（2013）
 18. 首都大学生暑期社会实践优秀团队（2013）、优秀成果（2013）
-19. 清华大学综合优秀一等奖（2015–2017）
+19. 清华大学综合优秀一等奖学金（2015–2017）
 20. 清华大学优秀党建与思想政治工作者（党支部书记）（2019）、优秀研究生党支部书记（2018）、同方环境社工单项奖（2016–2018）、学堂在线优秀助教（2017）
 21. 美的集团广东美芝制冷设备有限公司优秀实习生（2016）
 22. 北京理工大学优秀毕业生（2014）、徐特立奖学金（全校每年共20人）（2013）
