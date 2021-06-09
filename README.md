@@ -1,6 +1,5 @@
-  
-![Profile](https://github.com/xuanzhang19/xuanzhang19.github.io/raw/master/Xuan%20ZHANG_Sea200x200.jpg)  
-　[[English](https://www.xuanzhang.online)]　　　[[中文](https://www.xuanzhang.online/ChineseCV)]  
+ ![Profile](https://github.com/xuanzhang19/EnglishCV/raw/master/Xuan%20ZHANG_Sea200x200.jpg)  
+　　[[English](https://cv.xuanzhang.online)]　　　[[中文](https://cv-chs.xuanzhang.online)]  
 
 **张旋**，博士（后） 
 [[个人简历](https://www.jianguoyun.com/p/DXKBGGsQpsj_Bxj5o9gD)]  
@@ -53,6 +52,7 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ;
 [[目录](#目录)]  
 
 ### 期刊论文
+(# Equal contribution; * Corresponding author)
 1. Xin Liu, Jingchun Min\*, **<u>Xuan Zhang</u>**\*, Zhifeng Hu, Xiaomin Wu, Supercooled water droplet impacting-freezing behaviors on cold superhydrophobic spheres, *International Journal of Multiphase Flow* 141, 103675 (2021). [[Link](https://doi.org/10.1016/j.ijmultiphaseflow.2021.103675)] [[PDF](https://www.jianguoyun.com/p/DbEMCkIQpsj_Bxix-vMD)]
 2. **<u>Xuan Zhang</u>**, Bingqiang Ji, Xin Liu, Siyu Ding, Xiaomin Wu\*, Jingchun Min\*, Maximum spreading and energy analysis of ellipsoidal impact droplets, Physics of Fluids 33 (5), 052108 (2021). [[Link](https://doi.org/10.1063/5.0047583)] [[PDF](https://www.jianguoyun.com/p/DbuXYFQQpsj_Bxiy-vMD)]
 3. **<u>Xuan Zhang</u>**, Zhibing Zhu, Chaoyang Zhang, Chun Yang\*, Reduced contact time of a droplet impacting on a moving superhydrophobic surface, *Applied Physics Letters* 117 (15), 151602 (2020). [[Link](https://doi.org/10.1063/5.0023896)] [[PDF](https://www.jianguoyun.com/p/DUWYUeoQpsj_Bxjo6tcD)]
@@ -62,7 +62,7 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ;
 7. **<u>Xuan Zhang</u>**, Xin Liu, Jingchun Min\*, Xiaomin Wu\*, Shape variation and unique tip formation of a sessile water droplet during freezing, *Applied Thermal Engineering* 147, 927-934 (2019). [[Link](https://doi.org/10.1016/j.applthermaleng.2018.09.040)] [[PDF](https://www.jianguoyun.com/p/DTpRUAgQpsj_Bxi21_UD)]
 8. **<u>Xuan Zhang</u>**, Xin Liu, Xiaomin Wu\*, Jingchun Min\*, Experimental investigation and statistical analysis of icing nucleation characteristics of sessile water droplets, *Experimental Thermal and Fluid Science* 99, 26-34 (2018). [[Link](https://doi.org/10.1016/j.expthermflusci.2018.07.027)] [[PDF](https://www.jianguoyun.com/p/DWyvMzYQpsj_Bxi31_UD)]
 9. **<u>Xuan Zhang</u>**, Xin Liu, Xiaomin Wu\*, Jingchun Min\*, Simulation and experiment on supercooled sessile water droplet freezing with special attention to supercooling and volume expansion effects, *International Journal of Heat and Mass Transfer* 127, 975-985 (2018). [[Link](https://doi.org/10.1016/j.ijheatmasstransfer.2018.07.021)] [[PDF](https://www.jianguoyun.com/p/DRBU1WcQpsj_Bxi41_UD)]
-10. **<u>Xuan Zhang</u>**, Xiaomin Wu\*, Time and frequency characteristics of pressure fluctuations during subcooled nucleate flow boiling, *Heat Transfer Engineering* 39, 642-653 (2018). [[Link](https://doi.org/10.1080/01457632.2017.1325670)] [[PDF](https://www.jianguoyun.com/p/DQmolGAQpsj_Bxi61_UD)]
+10. **<u>Xuan Zhang</u>**, Xiaomin Wu\*, Time and frequency characteristics of pressure fluctuations during subcooled nucleate flow boiling, *Heat Transfer Engineering* 39, 642-653 (2018). [[Link](https://doi.org/10.1080/01457632.2017.1325670)] [[PDF](https://www.jianguoyun.com/p/DQSMq7EQpsj_BxjQxPgD)]
 11. **<u>Xuan Zhang</u>**, Xiaomin Wu\*, Jingchun Min\*, Freezing and melting of a sessile water droplet on a horizontal cold plate, *Experimental Thermal and Fluid Science* 88, 1-7 (2017). [[Link](https://doi.org/10.1016/j.expthermflusci.2017.05.009)] [[PDF](https://www.jianguoyun.com/p/DRDTvUkQpsj_Bxi71_UD)]
 12. **<u>Xuan Zhang</u>**, Xiaomin Wu\*, Jingchun Min\*, Xin Liu, Modelling of sessile water droplet shape evolution during freezing with consideration of supercooling effect, *Applied Thermal Engineering* 125, 644-651 (2017). [[Link](https://doi.org/10.1016/j.applthermaleng.2017.07.017)] [[PDF](https://www.jianguoyun.com/p/DZLZK5QQpsj_Bxi81_UD)]
 13. **<u>Xuan Zhang</u>**, Xiaomin Wu\*, Jingchun Min\*, Aircraft icing model considering both rime ice property variability and runback water effect, *International Journal of Heat and Mass Transfer* 104, 510-516 (2017). [[Link](https://doi.org/10.1016/j.ijheatmasstransfer.2016.08.086)] [[PDF](https://www.jianguoyun.com/p/DQ_mh00Qpsj_Bxiw1_UD)]
@@ -76,14 +76,15 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ;
 21. Yicun Tang, Jingchun Min\*, **<u>Xuan Zhang</u>**, Guiling Liu, Meniscus behaviors and capillary pressures in capillary channels having various cross-sectional geometries, *Chinese Journal of Chemical Engineering* 26, 2014-2022 (2018). [[Link](https://doi.org/10.1016/j.cjche.2018.04.031)] [[PDF](https://www.jianguoyun.com/p/DQX4i7IQpsj_BxjE1_UD)]
 22. Fuqiang Chu, Zhiping Yuan, **<u>Xuan Zhang</u>**, Xiaomin Wu\*, Energy analysis of droplet jumping induced by multi-droplet coalescence: The influences of droplet number and droplet location, *International Journal of Heat and Mass Transfer* 121, 315-320 (2018). [[Link](https://doi.org/10.1016/j.ijheatmasstransfer.2018.01.027)] [[PDF](https://www.jianguoyun.com/p/DVJHMZ0Qpsj_BxjI1_UD)]
 23. Fuqiang Chu, Xiaomin Wu\*, Bei Zhu, **<u>Xuan Zhang</u>**, Self-propelled droplet behavior during condensation on superhydrophobic surfaces, *Applied Physics Letters* 108, 194103 (2016). [[Link](https://doi.org/10.1063/1.4949010)] [[PDF](https://www.jianguoyun.com/p/DQTLR5cQpsj_BxjH1_UD)]
-24. **<u>张旋</u>**, 刘鑫, 吴晓敏\*, 闵敬春, 过冷水滴碰撞结冰的实验与模拟研究, *工程热物理学报* 41 (02), 402-410 (2020). [[Link](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=GCRB202002021)] [[PDF](https://www.jianguoyun.com/p/DZVPUcgQpsj_BxjD_NcD)]
-25. **<u>张旋</u>**, 吴晓敏\*, 闵敬春, 冷壁上单个静止过冷液滴冻结过程的数值模拟, *工程热物理学报* 39 (01), 159-164 (2018). [[Link](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=GCRB201801027)] [[PDF](https://www.jianguoyun.com/p/DftGY_cQpsj_BxjJ_NcD)]
-26. 胡志锋, 褚福强, **<u>张旋</u>**, 袁志平, 吴晓敏\*, 液滴偏心撞击超疏水微柱表面：形态变化与接触时间, *工程热物理学报* 41 (09), 2266-2271 (2020). [[Link](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=GCRB202009025)] [[PDF](https://www.jianguoyun.com/p/DRLrQugQpsj_BxjR1_UD)]
-27. 刘鑫, **<u>张旋</u>**, 闵敬春\*, 壁面静止水滴冻结过程形状变化, *工程热物理学报* 41 (03), 704-708 (2020). [[Link](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=GCRB202003029)] [[PDF](https://www.jianguoyun.com/p/DeBdioUQpsj_BxjV1_UD)]
-28. 褚福强, 吴晓敏\*, **<u>张旋</u>**, 朱毅, 超疏水表面冷凝液滴行为与生长机制, *工程热物理学报* 37 (07), 1527-1531 (2016). [[Link](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2016&filename=GCRB201607028)] [[PDF](https://www.jianguoyun.com/p/DXcB3T8Qpsj_BxjX1_UD)]  
+24. **<u>张旋</u>**, 刘鑫, 吴晓敏\*, 闵敬春, 过冷水滴碰撞结冰的实验与模拟研究, *工程热物理学报* 41 (02), 402-410 (2020). [[Link](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=GCRB202002021)] [[PDF](https://www.jianguoyun.com/p/DcGTnUQQpsj_BxjVxPgD)]
+25. **<u>张旋</u>**, 吴晓敏\*, 闵敬春, 冷壁上单个静止过冷液滴冻结过程的数值模拟, *工程热物理学报* 39 (01), 159-164 (2018). [[Link](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2018&filename=GCRB201801027)] [[PDF](https://www.jianguoyun.com/p/Degl3ewQpsj_BxjXxPgD)]
+26. 胡志锋, 褚福强, **<u>张旋</u>**, 袁志平, 吴晓敏\*, 液滴偏心撞击超疏水微柱表面：形态变化与接触时间, *工程热物理学报* 41 (09), 2266-2271 (2020). [[Link](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=GCRB202009025)] [[PDF](https://www.jianguoyun.com/p/DaiSZ1IQpsj_BxjYxPgD)]
+27. 刘鑫, **<u>张旋</u>**, 闵敬春\*, 壁面静止水滴冻结过程形状变化, *工程热物理学报* 41 (03), 704-708 (2020). [[Link](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2020&filename=GCRB202003029)] [[PDF](https://www.jianguoyun.com/p/DazB0CYQpsj_BxjcxPgD)]
+28. 褚福强, 吴晓敏\*, **<u>张旋</u>**, 朱毅, 超疏水表面冷凝液滴行为与生长机制, *工程热物理学报* 37 (07), 1527-1531 (2016). [[Link](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2016&filename=GCRB201607028)] [[PDF](https://www.jianguoyun.com/p/DdYKxfMQpsj_BxjkxPgD)]  
 [[目录](#目录)]
 
 ### 会议论文
+(# Equal contribution; * Corresponding author)
 1. **<u>Xuan Zhang</u>**, Ngoc-Vu Nguyen, Tuan Tran\*, Conversion of in-process optical and thermal data into a single 3D file representing printing process in Powder Bed Fusion, *STP1637 on ASTM International Conference on Additive Manufacturing (ASTM ICAM 2020)* (West Conshohocken, PA: ASTM International, 2020). (Accepted)
 2. **<u>Xuan Zhang</u>**, Xin Liu, Xiaomin Wu\*, Jingchun Min, Axisymmetric ellipsoidal droplet impact on a horizontal solid surface, *APS March Meeting 2019*, Boston, US, March 2019, R48.00010.
 3. **<u>Xuan Zhang</u>**, Xiaomin Wu\*, Jingchun Min, Xin Liu, Impact of a supercooled water droplet on different temperature and contact angle cold plates, *16th International Heat Transfer Conference*, Beijing, China, August 2018, IHTC16-23531.
@@ -117,10 +118,10 @@ Email: [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com) ;
 ### 项目经历
 1. **博士后国际交流计划（派出项目）**，剪切流动与表面微结构对过冷水滴结冰与融化的耦合作用机理（No. 20190005, 2019.09–2021.09），*人社部/博管办* （主持）
 2. **Tier 2 Academic Research Fund**, Mechanistic Prediction of Heat Transfer Enhancement on Nanostructured Surfaces (No. MOE2018-T2-2-113, 2019.05–2022.04), *Ministry of Education, Singapore* （参与）
-3. School Enterprise Cooperation Project, Conversion of In-process Optical and Thermal Data into 3D File Representing Printing Process in Powder Bed Fusion Process (No. 2019069, 2020.01–2021.08), *National Additive Manufacturing Innovation Cluster (NAMIC, Singapore) & ASTM International* （参与）
-4. **Tier 2 Academic Research Fund**, Mechanisms of Ice Morphology of a Frozen Nanofluid Droplet on Subcooled Surfaces (No. MOE2016-T2-1-114, 2017.01–2019.12), *Ministry of Education, Singapore* （参与）
-5. **国家重点基础研究发展计划（973计划）项目**，飞机结冰致灾与防护关键基础问题研究（No. 2015CB755800, 2015.01–2019.08），*科技部* （参与）
-6. **国家自然科学基金面上项目**，表面微纳结构与跨尺度液滴多场耦合演化行为的相互关系及其调控（No. 51476084, 2015.01–2018.12) （参与）
+3. **Tier 2 Academic Research Fund**, Mechanisms of Ice Morphology of a Frozen Nanofluid Droplet on Subcooled Surfaces (No. MOE2016-T2-1-114, 2017.01–2019.12), *Ministry of Education, Singapore* （参与）
+4. **国家重点基础研究发展计划（973计划）项目**，飞机结冰致灾与防护关键基础问题研究（No. 2015CB755800, 2015.01–2019.08），*科技部* （参与）
+5. **国家自然科学基金面上项目**，表面微纳结构与跨尺度液滴多场耦合演化行为的相互关系及其调控（No. 51476084, 2015.01–2018.12) （参与）
+6. School Enterprise Cooperation Project, Conversion of In-process Optical and Thermal Data into 3D File Representing Printing Process in Powder Bed Fusion Process (No. 2019069, 2020.01–2021.08), *National Additive Manufacturing Innovation Cluster (NAMIC, Singapore) & ASTM International* （参与）
 7. 暑期实践项目，转子压缩机电机切边冷媒气泡运动规律研究（2016.06–2016.08），*美的集团广东美芝制冷设备有限公司*
 8. 校企合作项目，翅片表面结霜的模拟研究（2014.09–2015.07），*日本大金公司*    
 [[目录](#目录)]  
