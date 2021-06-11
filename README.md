@@ -1,5 +1,5 @@
  ![Profile](https://github.com/xuanzhang19/EnglishCV/raw/master/Xuan%20ZHANG_Sea200x200.jpg)  
-　　[[English](https://cv.xuanzhang.online)]　　　[[中文](https://cv-chs.xuanzhang.online)]  
+　　[[English](https://cv.xuanzhang.online)]　　[[中文](https://cv-chs.xuanzhang.online)]  
 
 **张旋**，博士（后） 
 [[个人简历](https://www.jianguoyun.com/p/DXKBGGsQpsj_Bxj5o9gD)]  
