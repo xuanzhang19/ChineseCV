@@ -1,9 +1,9 @@
 ![Profile](https://s1.ax1x.com/2022/04/23/LfSBjA.jpg)  
 　　[[English](https://en.xuanzhang.online)]　　[[中文](https://zh.xuanzhang.online)]  
 
-**张旋**， 预聘副教授（特别研究员）  [[**官方主页**](https://me.bit.edu.cn/szdw/jsml/rnydlgcx/fdjyjs/sssds5/2e7d26cb364547bf967a26cfd0f6c2c9.htm)]  [[**简历**](https://www.jianguoyun.com/p/DXKBGGsQpsj_Bxj5o9gD)]  
-北京理工大学，机械与车辆学院，能源与动力工程系  
-北京市海淀区中关村南大街5号，100081 
+**张旋**，预聘副教授（特别研究员）[[**官方主页**](https://me.bit.edu.cn/szdw/jsml/rnydlgcx/fdjyjs/sssds5/2e7d26cb364547bf967a26cfd0f6c2c9.htm)]  [[**简历**](https://www.jianguoyun.com/p/DXKBGGsQpsj_Bxj5o9gD)]   
+北京理工大学，机械与车辆学院，能源与动力工程系   
+北京市海淀区中关村南大街5号，100081   
 Tel: +86-15201619077  
 Email: [xuan.zhang@bit.edu.cn](mailto:xuan.zhang@bit.edu.cn) ; [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com)   
 [[**ORCID**](https://orcid.org/0000-0002-4999-7361)] 
@@ -13,8 +13,7 @@ Email: [xuan.zhang@bit.edu.cn](mailto:xuan.zhang@bit.edu.cn) ; [xuanzhang19@hotm
 [[**ResearchGate**](https://www.researchgate.net/profile/Xuan-Zhang-25)]  
 
 ### **个人简介**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**张旋**，工学博士，北京理工大学副教授/博导。2014年和2019年分别在北京理工大学和清华大学获得学士和博士学位，之后在清华大学和南洋理工大学（新加坡）开展博士后研究，2022年加入北京理工大学机械与车辆学院能源与动力工程系。  
-  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**张旋**，工学博士，北京理工大学副教授/博导。2014年和2019年分别在北京理工大学和清华大学获得学士和博士学位，之后在清华大学和南洋理工大学（新加坡）开展博士后研究，2022年加入北京理工大学机械与车辆学院能源与动力工程系。   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;主要致力于传热传质与流动耦合过程的研究，尤其是结冰/霜、沸腾/蒸发/冷凝等相变问题，目前已发表SCI/EI期刊论文33篇（截至2022年3月），其中第一/通讯作者18篇，出版/参与撰写专著2部，担任多个学术期刊的编辑和审稿人；曾入选博士后国际交流计划（派出项目），获北京理工大学徐特立奖学金、清华大学优秀博士论文、中国工程热物理学会吴仲华优秀研究生等荣誉。  
 
 ### **目录**
