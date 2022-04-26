@@ -1,7 +1,7 @@
 ![Profile](https://s1.ax1x.com/2022/04/23/LfSBjA.jpg)  
 &emsp;&emsp;[[English](https://en.xuanzhang.online)]&emsp;&emsp;[[中文](https://zh.xuanzhang.online)]  
 
-**张旋**，预聘副教授（特别研究员）[[**官方主页**](https://me.bit.edu.cn/szdw/jsml/rnydlgcx/fdjyjs/sssds5/2e7d26cb364547bf967a26cfd0f6c2c9.htm)]  [[**个人简历**](https://www.jianguoyun.com/p/DXKBGGsQpsj_Bxj5o9gD)]   
+**张旋**，预聘副教授/特别研究员&emsp;[[**官方主页**](https://me.bit.edu.cn/szdw/jsml/rnydlgcx/fdjyjs/sssds5/2e7d26cb364547bf967a26cfd0f6c2c9.htm)]  [[**个人简历**](https://www.jianguoyun.com/p/DXKBGGsQpsj_Bxj5o9gD)]   
 北京理工大学，机械与车辆学院，能源与动力工程系   
 北京市海淀区中关村南大街5号，100081   
 Tel: +86-15201619077  
