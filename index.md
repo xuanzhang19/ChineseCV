@@ -5,7 +5,7 @@
 北京理工大学，机械与车辆学院，能源与动力工程系   
 **地址**: 北京市海淀区中关村南大街5号，100081   
 **Tel**: +86-15201619077  
-**Email**: [xuan.zhang@bit.edu.cn](mailto:xuan.zhang@bit.edu.cn) ; [zhangxuan19@tsinghua.org.cn](mailto:zhangxuan19@tsinghua.org.cn)  
+**Email**: [xuan.zhang@bit.edu.cn](mailto:xuan.zhang@bit.edu.cn) ; [xuanzhang19@hotmail.com](mailto:xuanzhang19@hotmail.com)  
 
 ### ***个人简介***  
 &emsp;&emsp;**张旋**，工学博士，北京理工大学副教授/博导，2014年和2019年本科和博士分别毕业于北京理工大学和清华大学，清华大学和南洋理工大学博士后，2022年加入北京理工大学机械与车辆学院能源与动力工程系[**结霜实验室**](https://www.x-mol.com/groups/FrostLab)。  
