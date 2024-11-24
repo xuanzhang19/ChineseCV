@@ -1,4 +1,4 @@
-![Profile</u>](https://github.com/xuanzhang19/ChineseCV/raw/master/Xuan_ZHANG_BIT.jpg)  
+![Profile](https://s21.ax1x.com/2024/11/24/pAhCYAx.jpg)  
 &emsp;&emsp;[[<u>English</u>](https://en.xuanzhang.online)]&emsp;&emsp;[[<u>中文</u>](https://zh.xuanzhang.online)]  
 
 **张旋**，预聘副教授/特别研究员，博导  
