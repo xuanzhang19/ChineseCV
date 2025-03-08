@@ -12,6 +12,6 @@
 
 &emsp;&emsp;详见 **[[<u>官方主页</u>](https://me.bit.edu.cn/szdw/jsml/rnydlgcx/zlydwgcyjs/fgjzc10/8a4feae1bc944c2eb6d859ead210573c.htm)]**  **[[<u>Pure主页</u>](https://pure.bit.edu.cn/zh/persons/xuan-zhang)]**  **[[<u>ORCID</u>](https://orcid.org/0000-0002-4999-7361)]**  **[[<u>Google Scholar</u>](https://scholar.google.com/citations?user=ebuOVAIAAAAJ)]** **[[<u>Web of Science</u>](https://publons.com/researcher/AAB-1249-2020)]** **[[<u>Scopus</u>](https://www.scopus.com/authid/detail.uri?authorId=57142969300)]** **[[<u>ResearchGate</u>](https://www.researchgate.net/profile/Xuan-Zhang-25)]** **[[<u>个人简历</u>](https://www.jianguoyun.com/p/DXKBGGsQpsj_Bxj5o9gD)]**  
 
-<p align="center"> <i> 感谢浏览！ <br /> 
-更新于 2024-09-01 </i> <br /> 
+<p align="center"> 感谢浏览！ <br /> 
+更新于 2024-09-01 <br /> 
 <a href="https://en.xuanzhang.online"> English Version </a> </p> 
