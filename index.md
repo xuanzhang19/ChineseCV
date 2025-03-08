@@ -1,5 +1,3 @@
-&emsp;&emsp;[[<u>English</u>](https://en.xuanzhang.online)]&emsp;&emsp;&emsp;[[<u>中文</u>](https://zh.xuanzhang.online)]  
-
 ![Profile](https://note.youdao.com/yws/api/personal/file/WEB43b0f46a5beb8be7304945d2247e35f4?method=download&shareKey=6a6ca9ceb3e81395e1e0ed71dc81ea62)  
 **张旋**，预聘副教授/特别研究员，博导  
 北京理工大学，机械与车辆学院，能源与动力工程系   
@@ -12,7 +10,7 @@
 
 &emsp;&emsp;主持国家自然科学基金、科技部国家外国专家项目、173计划重点基础研究项目子课题、工信部指导性软课题、北京市自然科学基金、博士后科学基金面上资助、航空科学基金、重点实验室开放基金等10余项科研/教学项目，担任Applied Thermal Engineering（SCI, JCR Q1）、Micromachines（SCI, JCR Q2）、Energies（SCI, JCR Q3）等期刊客座编辑、Recent Patents on Mechanical Engineering（EI）期刊主题编辑和40余种学术期刊审稿人，以及教育部学位与研究生教育发展中心、中国汽车技术研究中心有限公司等评审专家。曾获教育部国家级一流本科课程（序2）、教育部国家精品在线开放课程（序2）、工信部工程硕博特色优质课程（序2）、中国工程热物理学会吴仲华优秀研究生奖（全国10人）、清华大学优秀博士学位论文、中国动力工程学会青年学术年会高质量论文、日本学术振兴会INTAKE会议最佳报告奖、北京制冷学会青年学术演讲比赛一等奖、国家奖学金（3次）、北京市优秀毕业生（2次）、北京理工大学徐特立奖学金（校级最高学生荣誉）等教学/科研荣誉，以及10余项省部级及以上大学生科创奖励。  
 
-&emsp;&emsp;详见 **[[<u>官方主页</u>](https://me.bit.edu.cn/szdw/jsml/rnydlgcx/zlydwgcyjs/fgjzc10/8a4feae1bc944c2eb6d859ead210573c.htm)]**  **[[<u>Pure主页</u>](https://pure.bit.edu.cn/zh/persons/xuan-zhang)]**  **[[<u>ORCID</u>](https://orcid.org/0000-0002-4999-7361)]**  **[[<u>Google Scholar</u>](https://scholar.google.com/citations?user=ebuOVAIAAAAJ)]** **[[<u>Web of Science</u>](https://publons.com/researcher/AAB-1249-2020)]** **[[<u>Scopus</u>](https://www.scopus.com/authid/detail.uri?authorId=57142969300)]** **[[<u>ResearchGate</u>](https://www.researchgate.net/profile/Xuan-Zhang-25)]** **[[<u>个人简历</u>](https://www.jianguoyun.com/p/DXKBGGsQpsj_Bxj5o9gD)]**  
+&emsp;&emsp;详见 **[[<u>官方主页</u>](https://me.bit.edu.cn/szdw/jsml/rnydlgcx/zlydwgcyjs/fgjzc10/8a4feae1bc944c2eb6d859ead210573c.htm)]**  **[[<u>Pure主页</u>](https://pure.bit.edu.cn/zh/persons/xuan-zhang)]**  **[[<u>ORCID</u>](https://orcid.org/0000-0002-4999-7361)]**  **[[<u>Google Scholar</u>](https://scholar.google.com/citations?user=ebuOVAIAAAAJ)]** **[[<u>Web of Science</u>](https://publons.com/researcher/AAB-1249-2020)]** **[[<u>Scopus</u>](https://www.scopus.com/authid/detail.uri?authorId=57142969300)]** **[[<u>ResearchGate</u>](https://www.researchgate.net/profile/Xuan-Zhang-25)]** **[[<u>个人简历</u>](https://www.jianguoyun.com/p/DXKBGGsQpsj_Bxj5o9gD)]**  **[[<u>English Version</u>](https://en.xuanzhang.online)]**  
 
 <p align="right"> <i> 感谢浏览！ <br /> 
 更新于 2024-09-01 </i> </p>
